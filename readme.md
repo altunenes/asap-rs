@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
-A Rust implementation of ASAP (Automatic Smoothing for Attention Prioritization), based on the paper "ASAP: Prioritizing Attention via Time Series Smoothing"
+A Rust implementation of ASAP (Automatic Smoothing for Attention Prioritization), based on the paper "ASAP: Prioritizing Attention via Time Series Smoothing" learn more: [source paper & js code: ](https://github.com/stanford-futuredata/ASAP)
 
 This project provides a high-performance Rust implementation of the ASAP algorithm for time series smoothing. It aims to efficiently reduce noise in time series data while preserving significant trends, optimized for visualization purposes.
 
