@@ -1,5 +1,5 @@
 # asap-rs
-
+[![crates.io](https://img.shields.io/crates/v/asap-rs.svg)](https://crates.io/crates/asap-rs)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 A Rust implementation of ASAP (Automatic Smoothing for Attention Prioritization), based on the paper "ASAP: Prioritizing Attention via Time Series Smoothing" learn more: [source paper & js code: ](https://github.com/stanford-futuredata/ASAP)
