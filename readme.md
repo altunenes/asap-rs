@@ -22,8 +22,8 @@ fn main() {
 ### Rust vs JS Performance
 
 ```diff
-- Rust: 1.4776ms
-+ JS: 8.96ms
+🦀 Rust: 1.4776ms
+🟨 JS: 8.96ms
   Data size: 500000
   Smoothed size: 25
   Original mean: 2499.97
