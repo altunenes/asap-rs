@@ -2,6 +2,12 @@
 name = "asap-rs"
 version = "0.1.0"
 edition = "2021"
+description = "Rust implementation of Automatic Smoothing for Attention Prioritization for Time Series"
+license = "MIT"
+repository = "https://github.com/altunenes/asap-rs"
+readme = "readme.md"
+keywords = ["time-series", "smoothing", "visualization"]
+categories = ["algorithms", "science"]
 
 [dependencies]
 rand = "0.8.5"
