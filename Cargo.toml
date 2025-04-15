@@ -10,4 +10,3 @@ keywords = ["time-series", "smoothing", "visualization"]
 categories = ["algorithms", "science"]
 
 [dependencies]
-rand = "0.8.5"
