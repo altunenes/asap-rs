@@ -193,5 +193,5 @@ fn compare_mixed_patterns() {
         print_results(&format!("Mixed (res={})", resolution), &data, &smoothed);
     }
     
-    println!("→ ASAP adapts to the resolution parameter, preserving more detail at higher settings");
+    println!("  Note: Very low resolutions (10) can be inappropriate for complex patterns, resulting in increased roughness.");
 }
